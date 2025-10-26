@@ -1,0 +1,5 @@
+voter1 1 lasindu A 1
+voter1 2 Hansika B 1
+voter1 1 lasindu A 1
+voter2 1 lasindu A 1
+voter2 2 Hansika B 1
