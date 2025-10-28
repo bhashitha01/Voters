@@ -1,3 +1,6 @@
 200405613570 lasindu voter1
 200505613570 gayanga voter2
 200905613570 Gayanga voter3
+201005613570 lasindu voter4
+200305613570 dilshan voter5
+200705613570 dilshan voter6
